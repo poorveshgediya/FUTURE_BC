@@ -1,1 +1,53 @@
+# **MetaMask Account Creation **
 
+## **Objective**
+To create a free cryptocurrency wallet using MetaMask and familiarize oneself with its features for securely managing digital assets.
+
+---
+
+## **What is MetaMask?**
+MetaMask is a free and trusted cryptocurrency wallet used to manage Ethereum-based digital assets. It allows users to store, send, and receive cryptocurrencies, interact with decentralized applications (dApps), and explore Web3 ecosystems.
+
+---
+
+## **Steps to Create a MetaMask Wallet**
+
+1. Download MetaMask
+- **Official Website**: Visit [https://metamask.io/](https://metamask.io/).
+- **Browser Extension**: Install the MetaMask extension for Chrome, Firefox, or Brave.
+- **Mobile App**: Alternatively, download the MetaMask app from the Google Play Store (Android) or Apple App Store (iOS).
+
+2. Set Up Your Wallet
+- Open the MetaMask extension or app.
+- Click **"Get Started"**.
+- Choose **"Create a Wallet"** (if you don't already have an account).
+
+3. Secure Your Recovery Phrase
+- MetaMask generates a **12-word Secret Recovery Phrase** during setup.
+- **Important**:
+  - Write the recovery phrase down on paper or store it in a password manager.
+  - Do not share it with anyone.
+  - Keep it in a secure location, as this is the only way to recover your wallet if you lose access.
+
+4. Create a Password
+- Set a strong password for accessing your wallet on the device.
+- The password is local to your device, while the recovery phrase secures your account globally.
+
+5. Confirm Recovery Phrase
+- Verify the recovery phrase by selecting the words in the correct order.
+- This step ensures that you have securely backed up the phrase.
+
+6. Wallet Creation Complete
+- Once verified, your wallet is ready to use.
+- MetaMask will show the default Ethereum account with a wallet address (e.g., `0x1234...abcd`).
+
+---
+
+## **Exploring MetaMask Features**
+
+1. Adding Tokens
+2. Viewing Balances
+3. Sending and Receiving Crypto
+4. Interacting with dApps
+
+---
